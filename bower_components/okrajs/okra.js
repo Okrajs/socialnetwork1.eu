@@ -168,7 +168,7 @@
     }, false);
 
     var _referrerToOrigin = function () {
-        return 'https://okra-demo-app.omardo.com';
+        return 'http://okra-demo-app.omardo.com';
     };
 
     // Send `childLoaded` event to the parent
